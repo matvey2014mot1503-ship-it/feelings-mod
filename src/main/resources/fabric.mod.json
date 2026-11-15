@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "feelings",
+  "version": "1.0.0",
+  "name": "Feelings Blocks",
+  "description": "Блоки: любовь, жадность, вера, моггинг, жестокость, гейство.",
+  "environment": "*",
+  "entrypoints": { "main": ["com.example.feelings.FeelingsMod"] },
+  "depends": { "fabricloader": ">=0.15.0", "minecraft": "1.20.1", "fabric-api": "*" }
+}
